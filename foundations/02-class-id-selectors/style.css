@@ -1,0 +1,17 @@
+p.odd{
+    background-color: rgba(255, 72, 179, 0.61);
+    font-family: Verdana,"DejaVu Sans", sans-serif;
+}
+
+div#pair:first-of-type{
+    color: blue;
+    font-size: 36px;
+}
+p.odd-big{
+    font-size: 24px;
+}
+div#pair:nth-child(4){
+    background-color: rgb(173, 212, 173);
+    font-size: 24px;
+    font-weight: bold;
+}
